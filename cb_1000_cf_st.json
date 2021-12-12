@@ -32,7 +32,8 @@
     ],
     "total": 692,
     "id_album": "90997657",
-    "name_album": "a...f"
+    "name_album": "a...f",
+    "hash_code_list_detail": "2108784339"
   },
   {
     "list_detail": [
@@ -51,7 +52,8 @@
     ],
     "total": 279,
     "id_album": "96538789",
-    "name_album": "g...l"
+    "name_album": "g...l",
+    "hash_code_list_detail": "391763036"
   },
   {
     "list_detail": [
@@ -78,7 +80,8 @@
     ],
     "total": 451,
     "id_album": "102079921",
-    "name_album": "m...r"
+    "name_album": "m...r",
+    "hash_code_list_detail": "-937573455"
   },
   {
     "list_detail": [
@@ -105,7 +108,8 @@
     ],
     "total": 494,
     "id_album": "107621053",
-    "name_album": "s...x"
+    "name_album": "s...x",
+    "hash_code_list_detail": "512855466"
   },
   {
     "list_detail": [
@@ -116,6 +120,7 @@
     ],
     "total": 10,
     "id_album": "113162181",
-    "name_album": "y...z"
+    "name_album": "y...z",
+    "hash_code_list_detail": "1660794053"
   }
 ]
